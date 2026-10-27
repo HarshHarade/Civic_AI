@@ -104,8 +104,8 @@ Automated jurisdiction engine that resolves responsible entities based on locati
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/HarshHarade/Civic_AI.git
-cd Civic_AI
+git clone https://github.com/HarshHarade/CivicAI.git
+cd CivicAI
 ```
 
 ### 2. Install dependencies
